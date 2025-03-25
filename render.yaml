@@ -1,1 +1,6 @@
+services:
+  - type: web
+    name: google-kosaka
+    env: docker
+    plan: free
 
